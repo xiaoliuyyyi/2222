@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "7352568f2e49a41ae8efb31cf430adc1",
 # 模板消息id
-"template_id": "DlXMPHirZyjDbs6MPekihnh74XisbZ1UNau5B0Zdm0U",
+"template_id": "Sryav-2ABBou_J1Xp8agqM5BaBPSui1_rbRkiBhnKyM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["okJBn6tDYCcQBulIV1kzF0U_AtmA","okJBn6vu55eFRR_PfJgu7o_EN6Og"],
 
@@ -21,7 +21,5 @@
 # 在一起的日子，格式同上
 "love_date": "2015-09-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "小孙今天要开心",
-# 金句英文
-"note_en": "Xiaosun needs to be happy today"
+"note_ch": "小孙今天也要开心呀",
 }
